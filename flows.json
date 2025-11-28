@@ -6,5 +6,28 @@
         "disabled": false,
         "info": "",
         "env": []
+    },
+    {
+        "id": "945aa672a9fa562f",
+        "type": "inject",
+        "z": "6c4d2944a2e358a2",
+        "name": "Start",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 170,
+        "y": 120,
+        "wires": [
+            []
+        ]
     }
 ]
